@@ -4,7 +4,6 @@ A wave-based survival action game built with Python and Pygame — fight off inc
 
 ![gameplay screenshot](screenshots/1.png) ![gameplay screenshot](screenshots/2.png) ![gameplay screenshot](screenshots/3.png)
 
-🎮 **[Play on itch.io](YOUR_ITCH_LINK_HERE)**
 
 ## About
 
