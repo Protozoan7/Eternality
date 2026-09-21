@@ -8,7 +8,7 @@ from misc import resource_path
 
 def play_battle():
     start_time = random.choice([0.0,18.3,55.2])
-    pygame.mixer.music.load(resource_path('audio/battle theme_final.wav'))
+    pygame.mixer.music.load(resource_path('audio/battle_theme.wav'))
     pygame.mixer.music.set_volume(0.3)
     pygame.mixer.music.play(loops = -1, start = start_time)
     
