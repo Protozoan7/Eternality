@@ -2,7 +2,7 @@
 
 A wave-based survival action game built with Python and Pygame — fight off increasingly difficult waves of enemies for as long as you can.
 
-![gameplay screenshot](screenshots/gameplay.png)
+![gameplay screenshot](screenshots/1.png) ![gameplay screenshot](screenshots/2.png) ![gameplay screenshot](screenshots/3.png)
 
 🎮 **[Play on itch.io](YOUR_ITCH_LINK_HERE)**
 
